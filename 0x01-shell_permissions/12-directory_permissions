@@ -1,0 +1,1 @@
+-m #!bin/bash\nmkdir -m 751 dir_holberton
