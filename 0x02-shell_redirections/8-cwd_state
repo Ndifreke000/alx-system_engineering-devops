@@ -1,1 +1,3 @@
-#!/bin/bashnls -la > ls_ls_cwd_content
+#!/bin/bash
+ls -la >ls_cwd_content
+ls -la > ls_cwd_content
